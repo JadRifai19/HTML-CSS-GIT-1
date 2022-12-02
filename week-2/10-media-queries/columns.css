@@ -1,1 +1,12 @@
 /* Add your own CSS code below */
+@media (min-width:768px){
+    .countires{
+    columns: 2;
+    }
+}
+
+@media (min-width:1200px){
+    .countires{
+    columns: 3;
+    }
+}
